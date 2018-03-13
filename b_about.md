@@ -10,18 +10,20 @@ comments: false
 
 ----
 
+
 ### 个人信息 ###
 姓名:	邵思远
 
 邮箱:	3402767530@qq.com
 
-班级:	砀山中学高二 班
+班级:	砀山中学高二年级
 
 	
 <!--more-->
 
 ----
 
+下载:[[邵思远的参赛作品-班级网站Word文档](/邵思远的参赛作品-班级网站电脑制作.doc), [网站源代码](https://codeload.github.com/dangzhongwebsite/dangzhongwebsite.github.io/zip/master)]
 
 ### 创作思想 ###
 
@@ -31,25 +33,25 @@ comments: false
 ---
 
 ### 创作过程 ###
-- 创作技术和技巧：本作品使用了目前最热门的静态网页生成软件Jekyll来生成，通过使用流行的Markdown文本标记语言，同学们不需要丰富的网页开发经验以及网页开发工具就可以在班级网站上进行发帖，管理网站。
-- 作品特色：本作品已经上线，使用Github网站进行开源托管，每位班级同学都可以方便的发帖评论。
+- 创作技术和技巧：本作品使用当前最热门的静态网页生成软件Jekyll来生成，通过使用流行的Markdown文本标记语言，同学们不需要丰富的网页开发经验以及网页开发工具就可以在班级网站上进行发帖，管理网站。
+- 作品特色：本作品已经上线网址为:[dangzhongwebsite.github.io](https://dangzhongwebsite.github.io)，使用Github网站进行开源托管，每位班级同学都可以方便的登录网站并发帖评论。
 
 ---
 
 ### 作品原创 ###
-- 访问本网站的游客可以通过注册Discus账号对同学发表的帖子进行评论，同学同样可以进行回复。
-- 本作品通过使用[Revolvermaps网站](https://www.revolvermaps.com)提供的插件，提供了游客数量统计和地理位置显示，激发同学们发帖的兴趣，为同学们提供乐趣。
+- 访问本网站的游客可以通过注册Discus账号对帖子进行评论，同学同样可以进行回复。
+- 本作品通过使用[Revolvermaps网站](https://www.revolvermaps.com)的插件，提供了游客数量统计和地理位置显示，激发同学们发帖的兴趣，为同学们提供乐趣。
 
 
 ---
 
 ### 参考资源 ###
-- 本作品参考了Github网站上的一个网页主题：[Freshman21](https://github.com/yulijia/freshman21/)
+- 本作品参考了Github网站上的一个网页主题模板：[Freshman21](https://github.com/yulijia/freshman21/)
 - 在网页实现上，作品使用了[Markdown标记语言](http://wowubuntu.com/markdown/)
 
 
 ---
 
-### 制作员软件及运行环境 ###
+### 制作软件及运行环境 ###
 
 本作品使用了Jekyll技术来生成网站，网页使用了Markdown标记语言，作品以上线并托管在Github上，访问者可以使用常用的浏览器（如Internet Explorer, 360浏览器，搜狗浏览器和Google Chrome浏览器）打开；本作品可以运行在Windows系统，Linux系统以及苹果系统下。
