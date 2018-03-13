@@ -13,9 +13,11 @@
 ----
 网站登录: [Github](https://github.com/)
 
-网站源代码: [github.com/dangzhongwebsite](https://github.com/dangzhongwebsite/dangzhongwebsite.github.io)
+查看网站源代码: [github.com/dangzhongwebsite](https://github.com/dangzhongwebsite/dangzhongwebsite.github.io)
 
-说明: 源代码无法直接显示出网页效果, 需要使用Jekyll软件制作成网页后再观看, 或者将源代码托管在Github Pages上直接在线[访问](https://dangzhongwebsite.github.io).
+说明: 源代码无法直接显示出网页效果, 有两种方法显示网页效果:
+1. 使用Jekyll软件制作成网页后观看, 下载[[班级网站的网页文件](/邵思远的参赛作品-班级网站-网页文件.zip)], 这种方法的缺点是由于离线访问的原因, 存在目录问题, 有些文件无法完全显示.
+2. 或者将源代码托管在Github Pages上直接在线[访问](https://dangzhongwebsite.github.io).
 
 下载:[[邵思远的参赛作品-班级网站Word文档](/邵思远的参赛作品-班级网站电脑制作.doc), [网站源代码](https://codeload.github.com/dangzhongwebsite/dangzhongwebsite.github.io/zip/master)]
 
