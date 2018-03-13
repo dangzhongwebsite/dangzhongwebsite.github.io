@@ -1,14 +1,9 @@
 
 第十八届安徽省中小学电脑制作活动砀山中学高二年级邵思远同学的参赛作品-班级网站, 网站基于[Freshman](http://github.com/yulijia/freshman)模板建立. 本作品已经上线, 网址为:[dangzhongwebsite.github.io](https://dangzhongwebsite.github.io).
 
-作品介绍:
-
-* Table of Contents
-{:toc}
-
 ----
 
-### 设计者信息 ###
+### 作者信息 ###
 姓名:	邵思远
 
 邮箱:	3402767530@qq.com
@@ -20,7 +15,7 @@
 
 网站源代码: [github.com/dangzhongwebsite](https://github.com/dangzhongwebsite/dangzhongwebsite.github.io)
 
-说明: 源代码无法直接显示出网页效果, 需要使用Jekyll软件制作成网页后再使用, 或者将源代码托管在Github Pages上直接在线[访问](https://dangzhongwebsite.github.io).
+说明: 源代码无法直接显示出网页效果, 需要使用Jekyll软件制作成网页后再观看, 或者将源代码托管在Github Pages上直接在线[访问](https://dangzhongwebsite.github.io).
 
 下载:[[邵思远的参赛作品-班级网站Word文档](/邵思远的参赛作品-班级网站电脑制作.doc), [网站源代码](https://codeload.github.com/dangzhongwebsite/dangzhongwebsite.github.io/zip/master)]
 
