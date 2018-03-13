@@ -9,105 +9,47 @@ comments: false
 {:toc}
 
 ----
-[[CV](./src/HongZhangCV.pdf){:target="_blank"}]
 
-### Personal Data
-Name:	H. (Hong) Zhang (张弘)
+### 个人信息 ###
+姓名:	邵思远
 
+邮箱:	3402767530@qq.com
 
-Dept.:	Mathematical Institute, Utrecht University
+班级:	砀山中学高二 班
 
-Address:	Budapestlaan 6, De Uithof, Utrecht, the Netherlands
-
-Email:	h.zhang4 AT uu DOT nl
-
-Homepage: https://www.uu.nl/staff/HZhang4
-
-
+	
+<!--more-->
 
 ----
 
-### Educational and Academic Data ###
-- 2015 - Present: Ph.D candidate in Mathematical Institute, Utrecht University, the Netherlands
 
-	Thesis Title: Computational of non-monotone wave and fingers in two-phase flow. 
+### 创作思想 ###
 
-	Adviser: Professor [Paul A. Zegeling](https://www.staff.science.uu.nl/~zegel101/)
-- 2012 - 2014: M.Sc. in Department of Mathematics and System Science, NUDT, P.R. China 
-
-	Thesis Title: Study on two classes of structure-preserving methods for Hamiltonian partial differential equations. [[pdf]](https://www.researchgate.net/publication/310259257_hamierdunpianweifenfangchengdeliangleibaojiegoufangfayanjiu) 
-
-	Adviser: Professor Songhe Song
-- 2008 - 2012: B.Sc. in Department of Mathematics, Zhejiang University, P.R. China
-
-	Thesis Title: Simulation of incompressible flow using lattice Boltzmann method on multi-threaded platform. [[pdf]](https://www.researchgate.net/publication/310261095_duoxian_chengpingtaishang_LB_fangfamo_nibuke_ya_liudong) 
-
-	Adviser: Professor [Xianliang Hu](http://www.math.zju.edu.cn/xlhu/)
+- 本作品以创建新时代特色班级为引领，利用网络技术进一步提高班级管理的文化品位，建设优良班集体，充分鼓励学生自我管理、自我发展，激发学生的创造力和团结协作意识，增强集体荣誉感，树立良好的班风、学风，将学校整体的素质教育与学生自我发展推向新的台阶。
+- 班级网站是一个展示、记录、交流与沟通的网络平台，在班级网站上展示我班同学的风采，记录每个成员的活动点滴，这不仅是同学之间的交流平台和网上家园，也是家长与班主任、任课教师之间方便无障碍的沟通渠道。
 
 ---
 
-### Research Interests ###
-1. Computational of non-monotone waves and fingers in two-phase flow
-1. Geometric numerical integration
-1. Moving mesh methods
-1. Computational fluid dynamics
+### 创作过程 ###
+- 创作技术和技巧：本作品使用了目前最热门的静态网页生成软件Jekyll来生成，通过使用流行的Markdown文本标记语言，同学们不需要丰富的网页开发经验以及网页开发工具就可以在班级网站上进行发帖，管理网站。
+- 作品特色：本作品已经上线，使用Github网站进行开源托管，每位班级同学都可以方便的发帖评论。
 
 ---
 
-### Publications ###
+### 作品原创 ###
+- 访问本网站的游客可以通过注册Discus账号对同学发表的帖子进行评论，同学同样可以进行回复。
+- 本作品通过使用[Revolvermaps网站](https://www.revolvermaps.com)提供的插件，提供了游客数量统计和地理位置显示，激发同学们发帖的兴趣，为同学们提供乐趣。
 
-1. Yunrui Guo, Lingyan Tang, **Hong Zhang** and Songhe Song. A Maximum-Principle-Preserving Third Order Finite Volume SWENO Scheme on Unstructured Triangular Meshes[J]. Adv. Appl. Math. Mech., 10 (2018), pp. 114-137 [[DOI: 10.4208/aamm.OA-2016-0196](www.global-sci.org/aamm/volumes/v10n1/pdf/101-114.pdf){:target="_blank"}]
-1. **Zhang H**, Zegeling P A. Simulation of thin film flows with a moving mesh mixed finite element method, 2017 (submitted to Applied Mathematics and Computation)[[pdf](https://www.researchgate.net/publication/321918521_Simulation_of_thin_film_flows_with_a_moving_mesh_mixed_finite_element_method){:target="_blank"}]
-1. **Zhang H**, Zegeling P A. A numerical study of two-phase flow models with dynamic capillary pressure and hysteresis[J]. Transport in Porous Media, 2017, 116(2): 825–846. [[DOI: 10.1007/s11242-016-0802-z](https://link.springer.com/article/10.1007/s11242-016-0802-z){:target="_blank"}] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:pJ3DxvX3Ep0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyTsiGdIVN8vpabOib2SvxkpYdfXakm&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
-1. **Zhang H**, Zegeling P A. Numerical investigations of two-phase flow with dynamic capillary pressure in porous media via a moving mesh method[J]. Journal of Computational Physics, 2017, 345: 510-527. [[DOI: 10.1016/j.jcp.2017.05.041](https://doi.org/10.1016/j.jcp.2017.05.041){:target="_blank"}] [[BibTex]( ){:target="_blank"}]
-1. **Zhang H**, Zegeling P A. A moving mesh finite difference method for non-monotone solutions of non-equilibrium equations in porous media[J]. Communications in Computational Physics, 2017 (accepted). [[DOI: 10.4208/cicp.OA-2016-0220 ](www.global-sci.com/galley/CiCP-2016-0220.pdf){:target="_blank"}] [[BibTex](){:target="_blank"}]
-1. Mingzhan Song, Xu Qian, **Hong Zhang**, Jingmin Xia, Songhe Song. Two kinds of new energy-preserving schemes for the coupled nonlinear Schrodinger equations, 2017 (submitted to Communications in Computational Physics)
-1. Song M, Qian X, **Zhang H** and Song SH. Hamiltonian Boundary Value Method for the Nonlinear Schrödinger Equation and the Korteweg-de Vries Equation[J]. Advances in Applied Mathematics and Mechanics, 2017, 9(4): 868-886. [[DOI: 10.4208/aamm.2015.m1356](https://doi.org/10.4208/aamm.2015.m1356){:target="_blank"}] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ehMxJ0fTZyoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyUiEPQwHwzC8hcDcy7UhvC7_feGHqB&scisf=4&ct=citation&cd=-1&hl=zh-CN){:target="_blank"}]
-1. **H. Zhang**, S. H. Song, X. D. Chen, et al. Average vector field methods for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(7): 070208. [[DOI: 10.1088/1674-1056/23/7/070208]](http://iopscience.iop.org/article/10.1088/1674-1056/23/7/070208/meta){:target="_blank"} [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:jiqEcj_xp7gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyPtw5PZLjTVG-A2YSy_eiE5RYjWyif&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
-1. **H. Zhang**, S. H. Song, W. E. Zhou, et al. Multi-symplectic method for the coupled Schrodinger-KdV equations[J]. Chinese Physics B, 2014, 23(8): 080204. [[DOI: 10.1088/1674-1056/23/8/080204]](http://iopscience.iop.org/article/10.1088/1674-1056/23/8/080204/meta){:target="_blank"} [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:3fGsfS-xFJQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWVyQKAkTeXdFzEv3qRZjW6QTbcmh7ImE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1){:target="_blank"}]
 
 ---
 
-### Conferences, summer schools and workshops  ####
-1. ENUMATH 2017, 2017.9.25-2017.9.29, Voss, Norway
-1. Woudschoten Conferences WSC, 2017.10.4-2017.10.6, Zeist, the Netherlands (poster presentation)
-1. The 11th annual conference of Chinese Computational Mathematics Society, 2017, Xi’an, China
-1. Spring meeting WSC, 2017.5.19, Antwerp, Belgium
-1. The 53 Nederlands Mathematisch congress, 2017.4.11, Utrecht, the Netherlands (poster presentation)
-1. [Forefront of PDEs](http://viennapde.tuwien.ac.at/events/workshop1612.html){:target="_blank"}: Modelling, Analysis and Numerics, 2016.12.12-2016.12.14, Vienna, Austria
-1. [1st SRP NUPUS meeting](https://www.srpnupus.uni-stuttgart.de/events/conferences/2016_10_Meeting.html){:target="_blank"}, 2016.10.5-2016.10.7, Stuttgart, Germany 
-1. [1st NUPUS summer school "Discretization of the groundwater transport equations"](https://www.srpnupus.uni-stuttgart.de/events/courses_students/summer_schools/SS_1610_Info.html){:target="_blank"}
+### 参考资源 ###
+- 本作品参考了Github网站上的一个网页主题：[Freshman21](https://github.com/yulijia/freshman21/)
+- 在网页实现上，作品使用了[Markdown标记语言](http://wowubuntu.com/markdown/)
 
-	Mentor: Rainer Helmig (Stuttgart)
-1. [DUNE::FEM summer school](http://www.ians.uni-stuttgart.de/institut/veranstaltungen/Tagungen/dune-fem-school-2016/), 2016.9.26-2016.9.30, Stuttgart, Germany 
-
-	Mentors: Robert Klofkorn (IRIS, Bergen), Claus Heine (IANS, Stuttgart)
-1. XVI International Conference on Hyperbolic Problems: Theory, Numerics, Applications, [HYP2016](http://www.hyp2016.de/){:target="_blank"}, 2016.8.1-2016.8.5, Aachen, Germany
-1. NDNS workshop, 2016.7.4-2016.7.5, Twente, the Netherlands
-1. Moving mesh methods workshop, 2016.6.13-2016.6.16, Bath, UK
-1. Spring meeting WSC, 2016.5.13, Utrecht, the Netherlands
-1. Summer school on numerical methods for coupled fluid-solid dynamics, 2014.8, Beijing, China
-1. The 1st postgraduate forum on numerical methods for partial differential equations, 2014.8, Beijing, China
-1. The 12th annual conference of Chinese Computational Mathematics Society, 2013.10, Changsha, China
-1. International conference on compressed sensing: theory and applications, 2013.7, Changsha, China
-1. Postgraduate summer school on Applied Mathematics, 2013.7, Changsha, China
-1. Summer school on Applied Mathematics, 2011.7, Zhengzhou, China
 
 ---
 
-### Skills ###
-- Spoken languages: Chinese, English
-- Computer languages: LaTex, C/C++, Matlab, Fortran, Shell Script, 
+### 制作员软件及运行环境 ###
 
----
-
-### Awards ###
-1. NDNS+ travel grant, 2018
-1. Excellent M.Sc Dissertation of NUDT, 2014
-1. TOP 100 B.Sc Dissertation of Zhejiang University, 2012
-1. Excellent Graduate Student of Zhejiang University, 2012
-1. Scholarship for Outstanding Merits, Zhejiang University, 2009, 2010, 2011
-1. Scholarship for Outstanding Students, Zhejiang University, 2009, 2010, 2011
-1. Prize of the National Talents Training Base, Zhejiang University, 2010
-
-
+本作品使用了Jekyll技术来生成网站，网页使用了Markdown标记语言，作品以上线并托管在Github上，访问者可以使用常用的浏览器（如Internet Explorer, 360浏览器，搜狗浏览器和Google Chrome浏览器）打开；本作品可以运行在Windows系统，Linux系统以及苹果系统下。
