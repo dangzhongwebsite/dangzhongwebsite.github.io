@@ -32,8 +32,6 @@ layout: default
       <time itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
         {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }}
 			</time>
-			| {{ site.locales[site.default_locale].Counter }}
-			<span data-hk-page="{{ post.url | prepend: site.url }}"> - </span> times
       </p>
     </header>
 
