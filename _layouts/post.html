@@ -25,10 +25,7 @@ layout: default
     {% endif %}
 		<time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
     {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
-    </time>
-		| {{ site.locales[site.default_locale].Counter }}
-		<span data-hk-page="current"> - </span> times
-		</p>
+    </time> </p>
   </header>
 
   <article class="post-content" itemprop="articleBody">
