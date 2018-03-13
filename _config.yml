@@ -1,31 +1,31 @@
 ### Site info:
-title: Welcome to my homepage
-tagline: 乘风好去, 长空万里, 直下看山河
-author: H. (Hong) Zhang
-email: hzhang1991@gmail.com
-description: "H. Zhang's Homepage." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Hong Zhang's Homepage, 张弘的主页 "
+title: 砀山中学参赛作品-班级网站
+tagline: 设计者: 邵思远
+author: 邵思远
+email: 3402767530@qq.com
+description: "砀山中学参赛作品-班级网站." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "砀山中学参赛作品, 班级网站 "
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hzhang1991.github.io" # the base hostname & protocol for your site
+url: "http://dangzhongwebsite.github.io" # the base hostname & protocol for your site
 locale: en_US
 encoding: utf-8
 
 ### Personal info and site tools info:
 twitter_username:
-facebook_username: h.zhang1991
-github_username:
-googlescholar_username: TrB-5asAAAAJ
-researchgate_username: Hong_Zhang67
-disqus_shortname: hzhang1991-github-io
+facebook_username: 
+github_username: dangzhongwebsite
+googlescholar_username: 
+researchgate_username: 
+disqus_shortname: dangzhongwebsite
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is ZHANG Hong (张弘), a Ph.D student working in Scientific Computing in Utrecht University, the Netherlands. # these are shown on aboutme-sidebar.
-aboutme_photo: http://i.imgur.com/VNyDumC.jpg #https://imgur.com/BzgWVW5.jpg # #"/images/hzhang.jpg1"#https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: 第十八届安徽省中小学电脑制作活动砀山中学参赛作品-班级网站. # these are shown on aboutme-sidebar.
+aboutme_photo: http://i.imgur.com/VNyDumC.jpg #your photo.
 google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr) and Russian (ru) 
+default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr) and Russian (ru) 
 
 locales:
     en:
@@ -49,7 +49,7 @@ locales:
       Subscribe: "Subscribe"
       By: "by"
     cn:
-      Aboutme: "关于我"
+      Aboutme: "简介"
       Archives: "存档"
       Blogroll: "良师益友"        
       Categories: "分类目录"    
@@ -144,15 +144,19 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: H. Zhang's  website
-        href: http://hzhang1991.github.io
-        title: H. (Hong) Zhang's website
-      - name: H. (Hong) Zhang in Utrecht University
-        href: http://www.uu.nl/staff/HZhang4
-        title: Homepage of Hong Zhang
-      - name: Math Calendar, Utrecht University
-        href: http://utrechtgeometrycentre.nl/calendar/
-        title: Math Calendar
+      - name: 安徽省电化教育馆
+        href: http://djg.ahedu.cn/
+        title: 安徽省电化教育馆
+      - name: 宿州市教育体育局
+        href: http://www.szjy.gov.cn/
+        title: 宿州市教育体育局
+      - name: 砀山县教育体育局
+        href: http://old.dangshan.gov.cn/index.php/Unit/index/unit_code/LC004
+        title: 砀山县教育体育局
+      - name: 砀山中学
+        href: http://www.ahdszx.com/
+        title: 砀山中学
+     
 
 
 ### Build settings
