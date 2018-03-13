@@ -17,9 +17,9 @@ github_username: dangzhongwebsite
 googlescholar_username: 
 researchgate_username: 
 disqus_shortname: dangzhongwebsite
-favicon:     "/images/favicon.ico"
+favicon:     ""
 aboutme: 第十八届安徽省中小学电脑制作活动砀山中学参赛作品-班级网站. # these are shown on aboutme-sidebar.
-aboutme_photo: http://i.imgur.com/VNyDumC.jpg #your photo.
+aboutme_photo:  #your photo.
 google_analytics_key: UA-70088037-2 #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
@@ -156,6 +156,15 @@ Blogroll:
       - name: 砀山中学
         href: http://www.ahdszx.com/
         title: 砀山中学
+      - name: 砀山二中
+        href: www.ahdsez.com/
+        title: 砀山二中
+      - name: 砀山县铁路中学
+        href: http://www.ahdstz.com/
+        title: 砀山县铁路中学
+      - name: 魏书生教育网
+        href: http://www.weishusheng.org/
+        title: 魏书生教育网
      
 
 
